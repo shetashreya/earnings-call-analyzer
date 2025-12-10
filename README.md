@@ -46,9 +46,11 @@ AI-powered application that processes quarterly earnings call transcripts and ge
 3. Click **"Compare Selected Companies"**
 4. View side-by-side analyses and investment recommendation
 
-<img width="1917" height="1033" alt="Screenshot 2025-12-06 231723" src="https://github.com/user-attachments/assets/37569781-76d2-4342-8aa1-ad445c113422" />
+
+<img width="1917" height="1033" alt="Screenshot 2025-12-06 231723" src="https://github.com/user-attachments/assets/e8e9529c-2e5a-4d6d-89f5-facb75add0d8" />
 <br>
-<img width="1471" height="1034" alt="Screenshot 2025-12-06 231906" src="https://github.com/user-attachments/assets/e0bd03cb-47c9-4d29-a4cf-d454611df069" />
+<img width="1471" height="1034" alt="Screenshot 2025-12-06 231906" src="https://github.com/user-attachments/assets/f74e1cb0-dd12-4a36-8c01-be23bcd86fcd" />
+
 
 - LLM model
 - Vector DB settings
